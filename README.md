@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JUSTFIDEL
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on HTML/CSS/JavaScript/REACT
 - 📫 How to reach me: Twitter: fideBABA01
 
